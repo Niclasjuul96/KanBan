@@ -1,15 +1,3 @@
-# About the project
-This project is an exercise in coordination challenges in distributed applications as part of the course Introduction to
-Coordination in Distributed Applications (02148).
-We have created a text-based Kanban board that we call KanPlan.
-
-# Authors
-Artur Barcij - s216217@student.dtu.dk\
-Niclas Schæffer - s224744@student.dtu.dk\
-Alexander Vaaben - s214958@student.dtu.dk\
-Mark Bidstrup - s215782@student.dtu.dk\
-Adam Ajane - s211048@student.dtu.dk
-
 # How to run
 It is recommended to run the program with IntelliJ IDEA.
 
